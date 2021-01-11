@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Srivastava!
 
-🧰  I'm currently working:
-- as Software Engineer at <a href="https://github.com/erwin-inc">erwin, Inc</a>
+🧰  I'm currently working as:
+- Software Engineer at <a href="https://github.com/erwin-inc">erwin, Inc</a>
 
 💡 Ask me about:
 - Anything, I'm always happy to help in any way that I can.
