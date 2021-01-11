@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Srivastava!
 
-🧰  I'm currently working at:
+🧰  I'm currently working as Software Engineer at:
 - <a href="https://github.com/erwin-inc">erwin, Inc</a>
 
 💡 Ask me about:
