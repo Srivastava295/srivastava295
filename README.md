@@ -1,7 +1,16 @@
-### Hi there 👋
+# Hi there 👋, I'm Srivastava!
+
+🧰  I'm currently working at:
+- <a href="https://github.com/erwin-inc">erwin, Inc</a>
+
+💡 Ask me about:
+- Anything, I'm always happy to help in any way that I can.
+
+🌱 I’m currently learning
+- DSA
 
 <!--
-**Srivastava295/srivastava295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**srivastavab/srivastavab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
