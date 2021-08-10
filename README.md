@@ -1,6 +1,6 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Srivastava!
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Srivastava!
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/479/479026.svg" align="right" width=150 /><br>
+<img src="https://www.flaticon.com/svg/static/icons/svg/479/479026.svg" align="right" width=150 />
 
 🧰  I'm currently working as:
 - Software Engineer at <a href="https://github.com/erwin-inc">erwin, Inc</a>
@@ -9,6 +9,8 @@
 - Anything, I'm always happy to help in any way that I can.
 
 Location: 127.0.0.1
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastava295&count_private=true&show_icons=true&theme=radical)
 
 #### Web Development, Tools and Technologies: <br>
 <img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
