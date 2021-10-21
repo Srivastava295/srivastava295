@@ -39,6 +39,12 @@ Location: 127.0.0.1
 
 ### Top Languages
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava295&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava295&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)
+  
+### Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srivastava295&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+### Graph
+[![Sanchit's github activity graph](https://activity-graph.herokuapp.com/graph?username=srivastava295&&bg_color=000000&color=00FF00&line=FFFF00&point=00ADFE&area=true)](https://activity-graph.herokuapp.com/graph?username=srivastava295&theme=dracula)
 
 <!--
 **srivastavab/srivastavab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
