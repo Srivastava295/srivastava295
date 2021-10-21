@@ -11,7 +11,7 @@
 
 Location: 127.0.0.1
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastava295&count_private=true&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastava295&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ## Working Stack:
 
