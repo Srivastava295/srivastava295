@@ -25,6 +25,7 @@ Location: 127.0.0.1
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
     <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
+    <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=2BA1F1" />
     <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
     <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
     <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=1E87E3" />
