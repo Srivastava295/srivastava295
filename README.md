@@ -38,7 +38,7 @@ Location: 127.0.0.1
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=srivastava295&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ### Top Languages
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava295&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava295&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava295&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava295&count_private=true&include_all_commits=true&layout=compact&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=000000)
 
 <!--
 **srivastavab/srivastavab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
