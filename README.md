@@ -18,8 +18,8 @@ Location: 127.0.0.1
 <div align="center">
     <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F44336" />
     <img src="https://img.shields.io/badge/-Spring-000000?style=flat&logo=spring&logoColor=4AAA3C" />
+    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" />
     <img src="https://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=F57C00" />
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColorhalf=396E9B" /> <br>
     <img src="https://img.shields.io/badge/-HTML-000000?&style=flat&logo=html5"/>
     <img src="https://img.shields.io/badge/-CSS-000000?&style=flat&logo=css3&logoColor=42A5F5"/>
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
@@ -29,8 +29,8 @@ Location: 127.0.0.1
     <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=1E87E3" />
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
-    <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FBC02D" />
-    <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
+    <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=DEDEDF" />
+    <img src="https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=DEDEDF" />
 </div>
 <br/>
 
