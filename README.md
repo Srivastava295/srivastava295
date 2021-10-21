@@ -31,8 +31,8 @@ Location: 127.0.0.1
     <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=1E87E3" />
     <img src="https://img.shields.io/badge/-git-000000?&style=flat&logo=git&logoColor=E64A19"/>
     <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
-    <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=DEDEDF" />
-    <img src="https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=DEDEDF" />
+    <img src="https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellijidea&logoColor=396E9B" />
+    <img src="https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm&logoColor=03AABF" />
 </div>
 <br/>
 
